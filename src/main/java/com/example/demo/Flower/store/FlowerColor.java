@@ -1,5 +1,8 @@
 package com.example.demo.Flower.store;
 
+import lombok.ToString;
+
+@ToString
 public enum FlowerColor {
     /**
      * Flower colors.
